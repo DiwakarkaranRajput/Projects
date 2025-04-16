@@ -102,7 +102,3 @@ Netflix-Data-Analytics/
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name Here**  
-[Your LinkedIn](#) | [Your GitHub](#)
