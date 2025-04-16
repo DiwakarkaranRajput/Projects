@@ -90,7 +90,4 @@ Sales-Data-Tableau-Project/
 
 ---
 
-## 👨‍💻 Author
 
-**Your Name Here**  
-[Your LinkedIn](#) | [Your GitHub](#)
