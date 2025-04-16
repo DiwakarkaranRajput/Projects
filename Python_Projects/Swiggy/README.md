@@ -96,8 +96,3 @@ Swiggy-Bangalore-Analytics/
 ```
 
 ---
-
-## 👨‍💻 Author
-
-**Your Name Here**  
-[Your LinkedIn](#) | [Your GitHub](#)
